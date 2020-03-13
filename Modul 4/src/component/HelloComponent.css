@@ -1,0 +1,55 @@
+.text-judul-login{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 24pt;
+    padding-bottom: 20px;
+
+}
+.kotak-p{
+    width: 400px;
+	background: white;
+	margin: 10px auto;
+	padding: 30px 20px;
+}
+body{
+	font-family: sans-serif;
+	background: #d5f0f3;
+}
+h1{
+    text-align: center;
+    font-weight: 300;
+    font-size: larger;
+    padding: 30px ;
+}
+label{
+    padding-top: 10px;
+    font-size: 11pt;
+    font-weight: bold;
+}
+.tombol_login{
+	background: green;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+    border-radius: 3px;
+	padding: 10px 30px;
+}
+.tombol_cancel{
+	background: red;
+	color: white;
+	font-size: 11pt;
+    width: 30%;
+	border: none;
+    border-radius: 3px;
+	padding: 10px 30px;
+}
+.tb{
+    width: 75%;
+	padding: 1px 40px;
+}
+.rm{
+    font-size: 10pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
